@@ -58,7 +58,7 @@
 
     <util:list id="basenames">
         <value>classpath:custom_messages</value>
-        <value>classpath:messages</value>
+        <value>classpath:messages_zh_CN</value>
     </util:list>
 
     <bean id="servicesManager" class="org.jasig.cas.services.DefaultServicesManagerImpl"
